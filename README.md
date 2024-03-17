@@ -1,1 +1,0 @@
-# ordering_platform_microservices
